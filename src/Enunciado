@@ -1,0 +1,7 @@
+Cuenta Bancaria
+La cuenta de una persona tiene guardado el saldo. Cuando creo una nueva cuenta este
+salgo comienza en 0.
+Desde un menú el usuario podrá depositar una cantidad de dinero y retirar dinero de la
+cuenta.
+El banco no permite que la cuenta baje de 0€.
+El banco también ha de mostrar desde el menú la información de la cuenta.

@@ -24,7 +24,7 @@ public class Program {
                 saldo = cuentaBancaria.retirarDinero(ingreso);
                 System.out.println("Se ha retirado el dinero correctamente");
                 if(saldo == -1){
-//                    saldo = cuentaBancaria.ingresarSaldo(ingreso);
+
                     System.err.println("Saldo insuficiente");
                 }
             }
@@ -38,7 +38,7 @@ public class Program {
 
             }
             System.out.println("Su saldo actual es " + saldo);
-//            playBanco(cuentaBancaria);
+
         }
     }
 
